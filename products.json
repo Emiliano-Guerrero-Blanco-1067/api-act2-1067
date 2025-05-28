@@ -1,0 +1,163 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "description": "A mind-bending thriller directed by Christopher Nolan, where a skilled thief is given a chance to erase his criminal past by planting an idea into a target's subconscious.",
+      "category": "movie",
+      "price": 14.99,
+      "discountPercentage": 10.00,
+      "rating": 4.8,
+      "stock": 12,
+      "tags": [
+        "sci-fi",
+        "thriller",
+        "blockbuster"
+      ],
+      "brand": "Warner Bros.",
+      "sku": "MOV123456",
+      "weight": 0.2,
+      "dimensions": {
+        "width": 13.5,
+        "height": 19.0,
+        "depth": 1.5
+      },
+      "warrantyInformation": "N/A",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "An absolute masterpiece!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Alice Johnson",
+          "reviewerEmail": "alice.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great movie but a bit confusing.",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Bob Smith",
+          "reviewerEmail": "bob.smith@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9781234567890",
+        "qrCode": "..."
+      },
+      "thumbnail": "https://raw.githubusercontent.com/Emiliano-Guerrero-Blanco-1067/api-act2-imagenes-1067/refs/heads/main/Inception-Poster-inception-2010-13368481-1029-1500.jpg",
+      "images": ["...", "...", "..."]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "description": "An epic tale of a 1940s New York Mafia family and their struggle to protect their empire from rival families as the leadership transitions from father to son.",
+      "category": "movie",
+      "price": 12.99,
+      "discountPercentage": 5.00,
+      "rating": 4.9,
+      "stock": 8,
+      "tags": [
+        "crime",
+        "drama",
+        "classic"
+      ],
+      "brand": "Paramount Pictures",
+      "sku": "MOV654321",
+      "weight": 0.25,
+      "dimensions": {
+        "width": 13.5,
+        "height": 19.0,
+        "depth": 1.5
+      },
+      "warrantyInformation": "N/A",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "A timeless classic. Brilliant performances.",
+          "date": "2024-05-22T11:26:10.000Z",
+          "reviewerName": "Michael Corleone",
+          "reviewerEmail": "michael.corleone@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Slow in parts but powerful story.",
+          "date": "2024-05-22T13:30:00.000Z",
+          "reviewerName": "Kay Adams",
+          "reviewerEmail": "kay.adams@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9789876543210",
+        "qrCode": "..."
+      },
+      "thumbnail": "https://raw.githubusercontent.com/Emiliano-Guerrero-Blanco-1067/api-act2-imagenes-1067/refs/heads/main/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM%40._V1_FMjpg_UX1000_.jpg",
+      "images": ["...", "...", "..."]
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "description": "A visually stunning sci-fi drama about a team of explorers who travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "category": "movie",
+      "price": 16.99,
+      "discountPercentage": 12.00,
+      "rating": 4.7,
+      "stock": 10,
+      "tags": [
+        "sci-fi",
+        "adventure",
+        "space"
+      ],
+      "brand": "Paramount Pictures",
+      "sku": "MOV789456",
+      "weight": 0.22,
+      "dimensions": {
+        "width": 13.5,
+        "height": 19.0,
+        "depth": 1.5
+      },
+      "warrantyInformation": "N/A",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Mind-blowing visuals and emotional story.",
+          "date": "2024-05-21T09:45:00.000Z",
+          "reviewerName": "Cooper",
+          "reviewerEmail": "cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "A bit long but worth every minute.",
+          "date": "2024-05-21T10:30:00.000Z",
+          "reviewerName": "Brand",
+          "reviewerEmail": "brand@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "14 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9781122334455",
+        "qrCode": "..."
+      },
+      "thumbnail": "https://raw.githubusercontent.com/Emiliano-Guerrero-Blanco-1067/api-act2-imagenes-1067/refs/heads/main/91vmAIK3d5L._AC_SL1500_.jpg",
+      "images": ["...", "...", "..."]
+    }
+  ],
+  "total": 194,
+  "skip": 0,
+  "limit": 30
+}
